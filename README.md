@@ -1,4 +1,4 @@
-# Curso-JavaScript-e-TypeScript-do-basico-ao-avançado
+# JavaScript-e-TypeScript-do-basico-ao-avançado-Curso
 
 Repositorio criado para acompanhar meu desenvolvimento no curso javaScript e TypeScript do básico ao avançado na Udemy
 
